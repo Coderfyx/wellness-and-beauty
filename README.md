@@ -56,7 +56,7 @@ http://localhost:3000
 
 ## ✅ **Contribución**
 1. Crear una nueva rama:
-   ```bash
+   ```
    git checkout -b feature/nueva-funcionalidad
    ```
 
