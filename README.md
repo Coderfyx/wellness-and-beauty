@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wellness and Beauty
 
 🚀 **Wellness and Beauty** es una aplicación web desarrollada con **NextJS + React**, diseñada para ofrecer una experiencia fluida y optimizada en la gestión de servicios de bienestar y belleza.
@@ -77,3 +78,6 @@ Este proyecto está bajo la licencia MIT. Puedes leer más en el archivo `LICENS
 
 ## ✨ **Contacto**
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [Mindframe Labs](https://github.com/Mindframe-Labs).
+=======
+# Landing page
+>>>>>>> 7ca723505c84d0ee26d198a8bfb9e5c59f0b49d6
