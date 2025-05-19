@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wellness and Beauty
 
 🚀 **Wellness and Beauty** es una aplicación web desarrollada con **NextJS + React**, diseñada para ofrecer una experiencia fluida y optimizada en la gestión de servicios de bienestar y belleza.
@@ -33,20 +32,20 @@
 
 ## ⚙️ **Instalación y ejecución**
 1. Clonar el repositorio:
-   ```bash
+   ```
    git clone https://github.com/Mindframe-Labs/wellness-and-beauty.git
    cd wellness-and-beauty
    ```
 
 2. Instalar dependencias:
-   ```bash
+   ```
    npm install
    ```
 
 3. Crear un archivo `.env` basado en `.env.example` y configurar las variables necesarias.
 
 4. Ejecutar el proyecto:
-   ```bash
+   ```
    npm run dev
    ```
 
@@ -62,12 +61,12 @@ http://localhost:3000
    ```
 
 2. Realizar los cambios y hacer commit:
-   ```bash
+   ```
    git commit -m "feat: descripción clara de lo que se hizo"
    ```
 
 3. Subir los cambios:
-   ```bash
+   ```
    git push origin feature/nueva-funcionalidad
    ```
 
@@ -78,6 +77,3 @@ Este proyecto está bajo la licencia MIT. Puedes leer más en el archivo `LICENS
 
 ## ✨ **Contacto**
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [Mindframe Labs](https://github.com/Mindframe-Labs).
-=======
-# Landing page
->>>>>>> 7ca723505c84d0ee26d198a8bfb9e5c59f0b49d6
