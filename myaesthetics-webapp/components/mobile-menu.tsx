@@ -43,7 +43,8 @@ export default function MobileMenu() {
               <X size={24} />
             </button>
           </div>
-          <div className="flex flex-col p-4 space-y-6 text-center">
+          {/* Navbar color background */}
+          <div className="flex flex-col p-4 space-y-6 text-center bg-[#ffffff]">
             <Link
               href="/about"
               className="text-lg py-2 text-[#5d5242] hover:text-[#8a7e6d] transition-colors"

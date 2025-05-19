@@ -7,9 +7,9 @@ import Header from "@/components/header"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Fulcrum Aesthetics - Beauty in Balance",
+  title: "Aesthetics - Plantillas",
   description: "Discover balance with our premium aesthetic treatments tailored to enhance your natural beauty.",
-    generator: 'v0.dev'
+    generator: 'Minframe'
 }
 
 export default function RootLayout({
