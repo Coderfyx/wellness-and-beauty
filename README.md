@@ -51,7 +51,7 @@
 
 5. Acceder en el navegador:
    ```
-http://localhost:3000
+   http://localhost:3000
    ```
 
 ## ✅ **Contribución**
