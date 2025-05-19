@@ -10,7 +10,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-8">
             <Link href="/" className="text-xl font-semibold text-[#8a7e6d]">
-              MYAESTHETICS
+              DEMO
             </Link>
             <nav className="hidden md:flex items-center space-x-6">
               <Link href="/about" className="text-sm text-[#8a7e6d] hover:text-[#5d5242]">
@@ -35,14 +35,18 @@ export default function Header() {
               <Phone size={16} className="mr-2" />
               (555) 123-4567
             </Link>
+            
+            {/* Search button for larger screens */}
+            {/*  
             <button className="hidden md:block text-[#8a7e6d] hover:text-[#5d5242]">
               <Search size={18} />
             </button>
+            */}
             <Link
               href="/book"
               className="hidden md:block px-4 py-1.5 border border-[#8a7e6d] text-xs text-[#8a7e6d] hover:bg-[#8a7e6d] hover:text-white transition duration-300"
             >
-              BOOK NOW
+              CONTACT US
             </Link>
             <MobileMenu />
           </div>

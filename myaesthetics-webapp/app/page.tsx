@@ -15,7 +15,7 @@ export default function Home() {
               Aesthetic treatments tailored to enhance your natural beauty
             </p>
             <button className="px-6 md:px-8 py-2.5 md:py-3 bg-[#5d5242] text-white text-sm hover:bg-[#4a4135] transition duration-300">
-              BOOK A CONSULTATION
+              DISCOVER MORE
             </button>
           </div>
         </div>
