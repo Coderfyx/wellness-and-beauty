@@ -33,7 +33,7 @@ export default function MobileMenu() {
         <div className="fixed inset-0 z-50 bg-[#f8f5f0] flex flex-col">
           <div className="flex justify-between items-center p-4 border-b border-[#e0d9cf]">
             <Link href="/" className="text-xl font-semibold text-[#8a7e6d]" onClick={() => setIsOpen(false)}>
-              MYAESTHETICS
+              DEMO
             </Link>
             <button
               onClick={() => setIsOpen(false)}
@@ -43,7 +43,8 @@ export default function MobileMenu() {
               <X size={24} />
             </button>
           </div>
-          <div className="flex flex-col p-4 space-y-6 text-center">
+          {/* Navbar color background */}
+          <div className="flex flex-col p-4 space-y-6 text-center bg-[#ffffff]">
             <Link
               href="/about"
               className="text-lg py-2 text-[#5d5242] hover:text-[#8a7e6d] transition-colors"
@@ -77,7 +78,7 @@ export default function MobileMenu() {
               className="mt-4 inline-block px-8 py-3 bg-[#5d5242] text-white text-sm hover:bg-[#4a4135] transition duration-300"
               onClick={() => setIsOpen(false)}
             >
-              BOOK NOW
+              DISCOVER MORE
             </Link>
           </div>
         </div>
